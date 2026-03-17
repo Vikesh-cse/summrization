@@ -1,0 +1,48 @@
+# ===============================
+# Core GenAI / LangChain Framework
+# ===============================
+langchain
+langchain-core
+langchain-community
+
+# ===============================
+# Google Gemini
+# ===============================
+langchain-google-genai
+google-generativeai
+
+# ===============================
+# OpenAI (GPT Models)
+# ===============================
+openai
+
+# ===============================
+# Hugging Face (Open-Source LLMs)
+# ===============================
+transformers
+huggingface-hub
+sentencepiece
+accelerate
+
+# ===============================
+# Ollama (Local LLMs)
+# ===============================
+ollama
+
+# ===============================
+# Environment & Configuration
+# ===============================
+python-dotenv
+
+# ===============================
+# Utilities
+# ===============================
+requests
+pydantic
+tqdm
+
+# ===============================
+# Data & Math
+# ===============================
+numpy
+pandas
