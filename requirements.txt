@@ -1,8 +1,6 @@
-streamlit==1.32.0
-
-langchain==0.2.17
-langchain-groq==0.1.5
-langchain-text-splitters==0.2.4
-
-python-dotenv==1.0.1
-pypdf==4.2.0
+streamlit
+langchain
+langchain-groq
+python-dotenv
+pypdf
+langchain-text-splitters
